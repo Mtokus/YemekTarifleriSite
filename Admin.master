@@ -41,7 +41,7 @@
                         <td> <a href="Kategoriler.aspx">KATEGORİLER </a></td>
                     </tr>
                     <tr>
-                        <td>YEMEKLER</td>
+                        <td> <a href="YemekEkle.aspx">YEMEKLER </a></td>
                     </tr>
                     <tr>
                         <td>YORUMLAR</td>
